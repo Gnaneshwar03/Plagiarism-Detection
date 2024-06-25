@@ -1,4 +1,4 @@
-# Transformers based Plagiarism-Detection
+# Transformers based Plagiarism Detection
 
 This project implements a plagiarism detection system using the CORD-19 dataset and BERT embeddings. It can detect potential plagiarism in scientific articles related to COVID-19 across multiple languages.
 
