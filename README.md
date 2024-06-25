@@ -2,6 +2,10 @@
 
 This project implements a plagiarism detection system using the CORD-19 dataset and BERT embeddings. It can detect potential plagiarism in scientific articles related to COVID-19 across multiple languages.
 
+## Sample Image
+
+![image](https://github.com/Gnaneshwar03/Plagiarism-Detection/assets/107243397/11c25dd3-5c08-43d8-934a-86d5d6e38fe0)
+
 ## Features
 
 - Downloads and processes the CORD-19 dataset
