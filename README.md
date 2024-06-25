@@ -35,10 +35,7 @@ This project implements a plagiarism detection system using the CORD-19 dataset 
 
 ## Usage
 
-1. Open the Jupyter notebook:
-   ```
-   jupyter notebook Plagiarism Detection.ipynb
-   ```
+1. Open the Jupyter notebook in Google Colab and connect to a T4 GPU instance.
 
 2. Run the cells in order to:
    - Download and preprocess the CORD-19 dataset
